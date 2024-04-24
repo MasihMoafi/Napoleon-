@@ -3,18 +3,13 @@ Have a chat with Napoleon
 
 Here are some of the results I've received after chatting with Napoleon Bonaparte!
 
-![Image Alt Text](https://imgur.com/yZZNdSe)
+![Napoleon Image 1](https://i.imgur.com/yZZNdSe.jpg)
 
-![Image Alt Text](https://imgur.com/kRtASsr)
+![Napoleon Image 2](https://i.imgur.com/kRtASsr.jpg)
 
-![Image Alt Text](https://imgur.com/S365uvh)
+![Napoleon Image 3](https://i.imgur.com/S365uvh.jpg)
 
-![Image Alt Text](https://imgur.com/yZZNdSe)
+![Napoleon Image 4](https://i.imgur.com/IOTya3x.jpg)
 
-![Image Alt Text](https://imgur.com/IOTya3x)
-
-![Image Alt Text](https://imgur.com/ZcAgPqv)
-
-
-
+![Napoleon Image 5](https://i.imgur.com/ZcAgPqv.jpg)
 
