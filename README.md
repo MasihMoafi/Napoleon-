@@ -1,5 +1,7 @@
 # Napoleon-
-Have a chat with Napoleon: I fed the existing models specifically tailored data, on Napoleon, leadership, etc.
+Have a chat with Napoleon: I fed the existing models specifically tailored data, on Napoleon, leadership, etc. Scan the QR code to reach the chatbot:
+
+![image](https://github.com/user-attachments/assets/20769e4b-b923-43cd-90de-3958d180204d)
 
 ![image](https://github.com/user-attachments/assets/10b1dc14-dfea-48e7-abad-d7707bc1849e)
 
