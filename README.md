@@ -8,7 +8,7 @@ An example of the fed data:
 
 ![Napoleon Image 5](https://i.imgur.com/ZcAgPqv.jpg)
 
-Here are some of the fun responses I've received.
+Here are some of the fun responses I've received:
 
 ![Napoleon Image 1](https://i.imgur.com/yZZNdSe.jpg)
 
