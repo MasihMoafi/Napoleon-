@@ -1,9 +1,10 @@
 # Napoleon
+
+![Napoleon Image 5](https://i.imgur.com/ZcAgPqv.jpg)
+
 I fed the existing models specific, tailored data on Napoleon Bonaparte.
 
 An example of fed data:
-
-![Napoleon Image 5](https://i.imgur.com/ZcAgPqv.jpg)
 
 ![image](https://github.com/user-attachments/assets/10b1dc14-dfea-48e7-abad-d7707bc1849e)
 
