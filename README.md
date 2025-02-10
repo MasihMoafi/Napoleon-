@@ -4,7 +4,7 @@
 
 I fed the existing models specific, tailored data on Napoleon Bonaparte.
 
-An example of fed data:
+An example of the fed data:
 
 ![Napoleon Image 5](https://i.imgur.com/ZcAgPqv.jpg)
 
