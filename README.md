@@ -1,5 +1,5 @@
 # Napoleon-
-Have a chat with Napoleon: I fed the existing models specifically tailored data, on Napoleon, leadership, etc.
+I fed the existing models specifica, tailored data on Napoleon Bonaparte.
 
 ![image](https://github.com/user-attachments/assets/10b1dc14-dfea-48e7-abad-d7707bc1849e)
 
